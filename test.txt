@@ -1,2 +1,2 @@
 print("hello world");
-안녕
+print("Tell your World");
